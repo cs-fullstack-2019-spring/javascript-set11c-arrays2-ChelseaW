@@ -11,6 +11,7 @@ var indexOf =  [];
 
 var index = parseInt(prompt("Enter an index"));
 
+
 console.log(index);
 
 //UserNumbers[index];
